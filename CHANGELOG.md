@@ -1,3 +1,8 @@
+<a name="1.0.6"></a>
+## [1.0.6](https://github.com/quyentruong/testgulprelease/compare/v1.0.5...v1.0.6) (2021-04-11)
+
+
+
 <a name="1.0.5"></a>
 ## [1.0.5](https://github.com/quyentruong/testgulprelease/compare/v1.0.4...v1.0.5) (2021-04-11)
 

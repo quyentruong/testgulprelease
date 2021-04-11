@@ -1,6 +1,6 @@
 {
   "name": "mangamark-firefox",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "",
   "devDependencies": {
     "conventional-changelog-cli": "^2.1.1",
@@ -11,6 +11,7 @@
     "gulp": "^4.0.2"
   },
   "resolutions": {
-    "gh-got": "^9.0.0"
+    "gh-got": "^9.0.0",
+    "got": "^11.8.2"
   }
 }
