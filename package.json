@@ -1,5 +1,14 @@
 {
   "name": "mangamark-firefox",
-  "version": "1.0.3",
-  "description": ""
+  "version": "1.0.4",
+  "description": "",
+  "devDependencies": {
+    "conventional-changelog-cli": "^2.1.1",
+    "conventional-github-releaser": "^3.1.5",
+    "conventional-recommended-bump": "^6.1.0",
+    "dotenv": "^8.2.0",
+    "execa": "^5.0.0",
+    "gh-got": "^9.0.0",
+    "gulp": "^4.0.2"
+  }
 }
