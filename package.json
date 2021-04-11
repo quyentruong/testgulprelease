@@ -1,6 +1,6 @@
 {
   "name": "mangamark-firefox",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "",
   "devDependencies": {
     "conventional-changelog-cli": "^2.1.1",
@@ -12,7 +12,7 @@
   },
   "resolutions": {
     "gh-got": "^9.0.0",
-    "got": "^10.7.0",
+    "got": "^10.5.7",
     "git-semver-tags": "^4.0.0"
   }
 }
