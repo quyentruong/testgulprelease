@@ -1,6 +1,6 @@
 {
   "name": "mangamark-firefox",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "",
   "devDependencies": {
     "conventional-changelog-cli": "^2.1.1",
